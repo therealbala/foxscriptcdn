@@ -1,0 +1,4 @@
+
+<!-- code by https://www.html-code-generator.com -->
+document.write(unescape('%3Ctitle%3E404%3C/title%3E%0A%3Cmeta%20charset%3Dutf-8%3E%0A%3Cmeta%20name%3Dviewport%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1%22%3E%0A%3Clink%20href%3Dhttps%3A//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css%20rel%3Dstylesheet%3E%3Clink%20href%3D%22https%3A//fonts.googleapis.com/css%3Ffamily%3DBaloo+Paaji%22%20rel%3Dstylesheet%3E%0A%3Cbody%20class%3D%22color%20bg-light%22%3E%0A%3Cdiv%20class%3Dcontainer-fluid%3E%0A%3Cdiv%20class%3D%22col-md-6%20offset-md-3%20text-center%20mt-5%20pt-5%22%3E%0A%3Cdiv%20class%3D%22bg-light%20card%20cd-shadow%20text-center%22%3E%0A%3Ch1%20class%3D%22display-1%20custom-font%20align-items-center%22%3E404%3C/h1%3E%0A%3Cdiv%20class%3Dcontainer%3E%0A%3Ch4%20class%3Dmd-0%3Ethe%20page%20was%20not%20found...%3C/h4%3E%0A%3Csmall%3Efoxmp4.com%3C/small%3E%0A%3C/div%3E%0A%3C/div%3E%0A%3C/div%3E%0A%3C/div%3E%0A%3C/body%3E'))
+
